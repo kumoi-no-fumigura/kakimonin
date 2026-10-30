@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kakimonin",
  "yomi": "かきもんいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集（私家集）",
+  "era": "南北朝期",
+  "author": "嘉喜門院",
+  "desc": "後村上天皇の女御で、長慶天皇・後亀山天皇の生母とされる嘉喜門院の家集。春・夏・恋・雑などの題詠歌を部立てに沿って収め、新葉和歌集の歌を注記する。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1539,6 +1544,6 @@
   "poems": 133,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
